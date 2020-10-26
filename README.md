@@ -46,8 +46,8 @@ KiCAD Custom Parts
 7. Click <b>Preferences > Footprint Libraries Wizard/<b>
 8. Follow the steps in the wizard to select and import the footprint library (<b>.mod</b> file)
 
-Import Steps For Older Versions of KiCad
-Import Symbols
+### Import Steps For Older Versions of KiCad
+#### Import Symbols
 
 1. Launch <b>Eeschema</b>.
 2. Select <b>Preferences > Library</b>.
@@ -58,7 +58,7 @@ Import Symbols
 7. In the Library files: window, select the <b>LIB</b> file, then click <b>Open</b>. The symbol now shows in the Component Library Files list.
 8. In the <b>from...</b> window, click <b>OK</b>.
 
-Import Footprints
+#### Import Footprints
 
 1. Launch <b>Pcbnew</b>.
 2. Select <b>Preferences > Library</b>.
