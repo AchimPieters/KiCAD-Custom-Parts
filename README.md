@@ -43,7 +43,7 @@ KiCAD Custom Parts
 4. In the <b>Component library files</b> section, click <b>Add</b>
 5. Select the <b>.lib</b> library file
 6. Go to <b>Tools > Open PcbNew</b>
-7. Click <b>Preferences > Footprint Libraries Wizard/<b>
+7. Click <b>Preferences > Footprint Libraries Wizard</b>
 8. Follow the steps in the wizard to select and import the footprint library (<b>.mod</b> file)
 
 ### Import Steps For Older Versions of KiCad
