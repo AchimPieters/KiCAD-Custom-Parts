@@ -2,7 +2,7 @@
 KiCAD Custom Parts
 
 ![Image of Symbol](https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/3D.png)
-![Image of Symbol](https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/3D.png)
+![Image of Symbol](https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/Footprint.png)
 ![Image of Symbol](https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/3D.png)
 
 ### KiCad (V4 and later)
