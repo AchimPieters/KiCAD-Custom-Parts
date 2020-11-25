@@ -3,7 +3,7 @@ KiCAD Custom Parts
 
 ![Image of Symbol](https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/3D.png)
 ![Image of Symbol](https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/Footprint.png)
-![Image of Symbol](https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/3D.png)
+![Image of Symbol](https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/3D%20Model.png)
 
 ### KiCad (V4 and later)
 #### Import Steps for Kicad 5.1
