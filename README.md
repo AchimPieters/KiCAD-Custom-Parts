@@ -1,6 +1,7 @@
 # KiCAD-Custom-Parts
 KiCAD Custom Parts
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### KiCad (V4 and later)
 #### Import Steps for Kicad 5.1
