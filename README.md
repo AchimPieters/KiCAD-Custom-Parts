@@ -1,7 +1,7 @@
 # KiCAD-Custom-Parts
 KiCAD Custom Parts
 
-<img src="https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/3D.png" width="128" height="128">   <img src="https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/Footprint.png" width="128" height="128">   <img src="https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/3D%20Model.png" width="128" height="128">
+
 
 
 
