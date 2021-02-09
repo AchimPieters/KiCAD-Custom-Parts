@@ -3,6 +3,16 @@ KiCAD Custom Parts
 
 <img src="https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/KiCAD.png" width="15%" height="15%">          <img src="https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/KiCAD_Symbols.png" width="15%" height="15%">          <img src="https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/KICAD_Footprints.png" width="15%" height="15%">          <img src="https://raw.githubusercontent.com/AchimPieters/KiCAD-Custom-Parts/main/icns/KiCAD_3D.png" width="15%" height="15%">
 
+## Download
+
+You can download the parts on the left, under `Releases`.
+
+For More Information & Projects visit: https://www.studiopieters.nl
+
+[![GitHub All Releases](https://img.shields.io/github/downloads/achimpieters/KiCAD-Custom-Parts/total?color=green)](https://github.com/achimpieters/KiCAD-Custom-Parts/releases) 
+[![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/v/release/achimpieters/KiCAD-Custom-Parts)](https://img.shields.io/github/v/release/achimpieters/KiCAD-Custom-Parts)
+[![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/AJFPieters)
 
 
 ### KiCad (V4 and later)
