@@ -15,15 +15,6 @@ For More Information & Projects visit: https://www.studiopieters.nl
 [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/AJFPieters)
 
 
-## Disclaimer
-
-The Zip file you are about to download is provided for your convenience and contains footprint files based on multiple sources.
-
-These files are provided ‘AS IS’ and with no guarantee that they are complete, free from errors or suitable for use. <b>Studio</b>Pieters® is not responsible for incorrect Symbols, Footprints and 3D models or use of Symbols, Footprints and 3D models provided in the library.
-
-Carefully check the imported Symbols, Footprints and 3D models against the latest datasheet provided on the manufacturer website. In particular check hole sizes, pin numbering, and pay close attention to the solder paste-mask layer to ensure no solder paste is deposited on the footprint pads.
-
-By downloading and using the following files the user agrees to take full responsibility for checking the accuracy and suitability of the imported Symbols, Footprints and 3D models.
 
 
 
@@ -94,3 +85,14 @@ By downloading and using the following files the user agrees to take full respon
 6. In the <b>from...</b> window, in the Component Library Files area, click Add.
 7. In the Footprint library files window, select the <b>MOD</b> file, then click <b>Open</b>. The footprint now shows in the Footprint library files list.
 8. In the <b>from...</b> window, click <b>OK</b>.
+
+<sup><b>Disclaimer</b></sup>
+
+<sup>The Zip file you are about to download is provided for your convenience and contains footprint files based on multiple sources.</sup>
+
+<sup>These files are provided ‘AS IS’ and with no guarantee that they are complete, free from errors or suitable for use. <b>Studio</b>Pieters® is not responsible for incorrect Symbols, Footprints and 3D models or use of Symbols, Footprints and 3D models provided in the library.</sup>
+
+<sup>Carefully check the imported Symbols, Footprints and 3D models against the latest datasheet provided on the manufacturer website. In particular check hole sizes, pin numbering, and pay close attention to the solder paste-mask layer to ensure no solder paste is deposited on the footprint pads.</sup>
+
+<sup>By downloading and using the following files the user agrees to take full responsibility for checking the accuracy and suitability of the imported Symbols, Footprints and 3D models.</sup>
+
