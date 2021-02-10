@@ -5,7 +5,7 @@ KiCAD Custom Parts
 
 ## Download
 
-You can download the parts on the left, under `Releases`. You can find the information on How to Import the parts here.
+You can download the parts on the left, under `Releases`. You can find the information on [How to Import the parts](https://www.google.com) here.
 
 For More Information & Projects visit: https://www.studiopieters.nl
 
