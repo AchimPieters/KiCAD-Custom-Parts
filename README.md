@@ -17,11 +17,5 @@ For More Information & Projects visit: https://www.studiopieters.nl
 
 <sup><b>Disclaimer</b></sup>
 
-<sup>The Zip file you are about to download is provided for your convenience and contains footprint files based on multiple sources.</sup>
-
-<sup>These files are provided ‘AS IS’ and with no guarantee that they are complete, free from errors or suitable for use. <b>Studio</b>Pieters® is not responsible for incorrect Symbols, Footprints and 3D models or use of Symbols, Footprints and 3D models provided in the library.</sup>
-
-<sup>Carefully check the imported Symbols, Footprints and 3D models against the latest datasheet provided on the manufacturer website. In particular check hole sizes, pin numbering, and pay close attention to the solder paste-mask layer to ensure no solder paste is deposited on the footprint pads.</sup>
-
-<sup>By downloading and using the following files the user agrees to take full responsibility for checking the accuracy and suitability of the imported Symbols, Footprints and 3D models.</sup>
+<sup>The Zip file you are about to download is provided for your convenience and contains footprint files based on multiple sources.</sup> <sup>These files are provided ‘AS IS’ and with no guarantee that they are complete, free from errors or suitable for use. <b>Studio</b>Pieters® is not responsible for incorrect Symbols, Footprints and 3D models or use of Symbols, Footprints and 3D models provided in the library.</sup> <sup>Carefully check the imported Symbols, Footprints and 3D models against the latest datasheet provided on the manufacturer website. In particular check hole sizes, pin numbering, and pay close attention to the solder paste-mask layer to ensure no solder paste is deposited on the footprint pads.</sup> <sup>By downloading and using the following files the user agrees to take full responsibility for checking the accuracy and suitability of the imported Symbols, Footprints and 3D models.</sup>
 
